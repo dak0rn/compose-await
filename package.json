@@ -1,0 +1,29 @@
+{
+  "name": "compose-await",
+  "version": "1.0.0",
+  "description": "A compose utility for async funcions",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dak0rn/compose-await.git"
+  },
+  "keywords": [
+    "await",
+    "async",
+    "compose",
+    "fp",
+    "function"
+  ],
+  "author": "Daniel Koch <daniel@suitsoft.eu>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dak0rn/compose-await/issues"
+  },
+  "homepage": "https://github.com/dak0rn/compose-await#readme",
+  "devDependencies": {
+    "tap": "^10.7.2"
+  }
+}
