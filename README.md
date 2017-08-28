@@ -29,5 +29,5 @@ const third = async function(c) {
 };
 
 const together = compose(third, second, first);
-const result = together(42);
+const result = await together(42);
 ```
