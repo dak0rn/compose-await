@@ -4,7 +4,7 @@
   "description": "A compose utility for async funcions",
   "main": "index.js",
   "scripts": {
-    "test": "yarn test"
+    "test": "tape test.js"
   },
   "repository": {
     "type": "git",
@@ -23,7 +23,8 @@
     "url": "https://github.com/dak0rn/compose-await/issues"
   },
   "homepage": "https://github.com/dak0rn/compose-await#readme",
-  "devDependencies": {
-    "tap": "^10.7.2"
+  "devDependencies": {},
+  "dependencies": {
+    "tape": "^4.8.0"
   }
 }
