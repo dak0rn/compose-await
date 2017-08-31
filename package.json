@@ -1,6 +1,6 @@
 {
   "name": "compose-await",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A compose utility for async funcions",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,9 @@
     "url": "https://github.com/dak0rn/compose-await/issues"
   },
   "homepage": "https://github.com/dak0rn/compose-await#readme",
-  "devDependencies": {},
-  "dependencies": {
+  "devDependencies": {
     "tape": "^4.8.0"
+  },
+  "dependencies": {
   }
 }
